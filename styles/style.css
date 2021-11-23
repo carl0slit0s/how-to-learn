@@ -269,6 +269,10 @@ h1, h2, h3, ul, a, p {
   right: -210px;
   top: 0;
   z-index: 1;
+  background-image: url(../images/kaufman-triangle.svg);
+  /* background-position: top right; */
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
 .footer {
