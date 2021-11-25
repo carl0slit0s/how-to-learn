@@ -146,7 +146,7 @@
 .section-title_theme_dark {
   color: #f2f2f2;
   position: relative;
-  z-index: 2;
+  z-index: 1;
 }
 
 .section-subtitle {
@@ -159,7 +159,7 @@
 
 .section-subtitle_theme_dark {
   color: #f2f2f2;
-  z-index: 2;
+  z-index: 1;
 }
 
 .table {
@@ -186,7 +186,7 @@
   max-width: 200px;
   color: white;
   margin-top: 80px;
-  z-index: 2;
+  z-index: 1;
 }
 
 .table__heading {
@@ -256,7 +256,7 @@
   height: 877px;
   right: -210px;
   top: 0;
-  z-index: 1;
+  z-index: 0;
   background-image: url(../images/kaufman-triangle.svg);
   background-repeat: no-repeat;
   background-size: cover;
