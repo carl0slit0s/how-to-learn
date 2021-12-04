@@ -1,8 +1,8 @@
 .khan__quote-author {
-    margin: 0 0 10px;
-    /* марджин на автора не работает почему-то */
-    line-height: 1.15;
-    font-size: 24px;
-    font-weight: 700;
-    font-style: normal;
+  margin: 0 0 10px;
+  /* марджин на автора не работает почему-то */
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: 700;
+  font-style: normal;
 }
